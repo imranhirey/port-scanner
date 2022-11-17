@@ -9,7 +9,7 @@ require (
 	github.com/projectdiscovery/cdncheck v0.0.4-0.20220322144854-b2d8ce308abb
 	github.com/projectdiscovery/clistats v0.0.8
 	github.com/projectdiscovery/dnsx v1.0.7-0.20210927160546-05f957862698
-	github.com/projectdiscovery/fdmax v0.0.3
+	github.com/projectdiscovery/fdmax v0.0.4
 	github.com/projectdiscovery/fileutil v0.0.0-20220626180823-b24f0847f8e6
 	github.com/projectdiscovery/goflags v0.0.8-0.20220610065908-6a16a6bc848c
 	github.com/projectdiscovery/gologger v1.1.4
@@ -18,7 +18,7 @@ require (
 	github.com/remeh/sizedwaitgroup v1.0.0
 	go.uber.org/ratelimit v0.2.0
 	golang.org/x/net v0.0.0-20210916014120-12bc252f5db8
-	golang.org/x/sys v0.0.0-20210915083310-ed5796bab164
+	golang.org/x/sys v0.2.0
 )
 
 require (
@@ -32,7 +32,7 @@ require (
 	github.com/projectdiscovery/sliceutil v0.0.0-20220625085859-c3a4ecb669f4
 	github.com/projectdiscovery/stringsutil v0.0.0-20220422150559-b54fb5dc6833
 	github.com/projectdiscovery/uncover v0.0.5
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.1
 	go.uber.org/multierr v1.8.0
 )
 
